@@ -1,6 +1,6 @@
 {
   "name": "ayrayray",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "For walking through data structures where each value is wrapped in an array.",
   "main": "index.js",
   "scripts": {
